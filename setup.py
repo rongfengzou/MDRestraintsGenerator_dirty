@@ -26,7 +26,6 @@ setup(
     install_requires=[
         'MDAnalysis>1.0.0',
         'numpy',
-        'scipy<1.8',
         'matplotlib',
     ],
 )
